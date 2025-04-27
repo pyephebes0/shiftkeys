@@ -24,21 +24,21 @@
   <meta name="keywords" content="แปลงภาษาอังกฤษเป็นไทย, แปลงคีย์บอร์ดอังกฤษไทย, โปรแกรมแปลงภาษา, พิมพ์อังกฤษเป็นไทย, ShiftKeys" />
   <meta name="author" content="ShiftKeys Team" />
   <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="https://yourdomain.com/" /> <!-- เปลี่ยน yourdomain.com ตามจริง -->
+  <link rel="canonical" href="https://shiftkeys.koyeb.app/" /> <!-- เปลี่ยน yourdomain.com ตามจริง -->
 
   <!-- OpenGraph / Facebook -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://yourdomain.com/" />
+  <meta property="og:url" content="https://shiftkeys.koyeb.app/" />
   <meta property="og:title" content="ShiftKeys - แปลงคีย์บอร์ดอังกฤษเป็นไทยออนไลน์ ใช้งานฟรี" />
   <meta property="og:description" content="ShiftKeys ช่วยแปลงข้อความจากคีย์บอร์ดอังกฤษเป็นไทยได้ง่าย ๆ ออนไลน์ 100%" />
-  <meta property="og:image" content="https://yourdomain.com/your-og-image.png" /> <!-- ใส่ลิงก์โลโก้หรือรูปโปรโมท -->
+  <meta property="og:image" content="https://shiftkeys.koyeb.app/your-og-image.png" /> <!-- ใส่ลิงก์โลโก้หรือรูปโปรโมท -->
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:url" content="https://yourdomain.com/" />
+  <meta name="twitter:url" content="https://shiftkeys.koyeb.app/" />
   <meta name="twitter:title" content="ShiftKeys - แปลงคีย์บอร์ดอังกฤษเป็นไทยออนไลน์ ใช้งานฟรี" />
   <meta name="twitter:description" content="ShiftKeys เครื่องมือออนไลน์ แปลงภาษาอังกฤษเป็นไทย ใช้งานฟรี รองรับทุกอุปกรณ์" />
-  <meta name="twitter:image" content="https://yourdomain.com/your-og-image.png" />
+  <meta name="twitter:image" content="https://shiftkeys.koyeb.app/your-og-image.png" />
   
   <!-- Favicon -->
   <link rel="icon" href="/favicon.ico" type="image/x-icon" />
